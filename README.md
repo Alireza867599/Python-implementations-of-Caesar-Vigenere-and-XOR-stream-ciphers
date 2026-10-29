@@ -61,7 +61,6 @@ The completed script demonstrates:
 | --- | --- |
 | `solution(2).py` | Completed Python implementation and demonstrations |
 | `hw(4).py` | Original Python starter template |
-| `تمرین شماره 1.pdf` | Assignment instructions (if sharing is permitted) |
 
 ## Educational Note
 
